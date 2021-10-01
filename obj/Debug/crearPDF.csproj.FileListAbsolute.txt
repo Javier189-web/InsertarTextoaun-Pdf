@@ -1,0 +1,14 @@
+C:\Users\unive\source\repos\crearPDF\bin\Debug\crearPDF.exe.config
+C:\Users\unive\source\repos\crearPDF\bin\Debug\crearPDF.exe
+C:\Users\unive\source\repos\crearPDF\bin\Debug\crearPDF.pdb
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.csprojAssemblyReference.cache
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.Form1.resources
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.Properties.Resources.resources
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.csproj.GenerateResource.cache
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.csproj.CoreCompileInputs.cache
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.exe
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.pdb
+C:\Users\unive\source\repos\crearPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\unive\source\repos\crearPDF\bin\Debug\itextsharp.dll
+C:\Users\unive\source\repos\crearPDF\bin\Debug\itextsharp.xml
+C:\Users\unive\source\repos\crearPDF\obj\Debug\crearPDF.csproj.CopyComplete
